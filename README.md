@@ -1,4 +1,4 @@
-# Philippine Barangay List
+# Philippine Locations JSON
 
 A comprehensive JSON dataset of Philippine administrative divisions, including Barangays, Municipalities, and Provinces, along with their respective Cities, Provinces, and Regions.
 
